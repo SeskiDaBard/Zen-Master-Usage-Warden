@@ -1,0 +1,6 @@
+Zen Master Usage Warden - Community Release
+
+You may share and modify the included utility code for personal/community use.
+No warranty is provided. This is an unofficial community project and is not affiliated with or endorsed by OpenAI.
+
+The automatic Codex usage integration depends on local Codex behavior and may require updates when Codex changes.
